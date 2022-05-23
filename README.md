@@ -5,3 +5,5 @@
 `cd arch-i3wm-setup`
 
 `cp -R .config/* ~/.config/`
+
+`sudo pacman -S --needed - < packages.txt`
