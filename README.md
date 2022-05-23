@@ -1,12 +1,12 @@
 # arch-i3wm-setup
 
-Terminal = xfce4-terminal
+Terminal = xfce4-terminal(https://docs.xfce.org/apps/terminal/start)
 
-Text editor = xed
+Text editor = xed(https://github.com/linuxmint/xed)
 
-File manager = thunar
+File manager = thunar(https://wiki.archlinux.org/title/Thunar)
 
-Web browser = firefox
+Web browser = firefox(https://wiki.archlinux.org/title/Firefox)
 
 `git clone https://github.com/ph1lm0/arch-i3wm-setup.git`
 
