@@ -1,6 +1,6 @@
 # arch-i3wm-setup
 
-Terminal = xfce4-terminal(https://docs.xfce.org/apps/terminal/start)
+Terminal = [xfce4-terminal](https://docs.xfce.org/apps/terminal/start)
 
 Text editor = xed(https://github.com/linuxmint/xed)
 
