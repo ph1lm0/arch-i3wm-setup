@@ -1,6 +1,13 @@
 dmenu
 dunst
+firefox
+firefox-i18n-en-gb
+gvfs
 i3-wm
 i3status
+lxappearance-gtk
+polkit-gnome
+thunar
 ttf-dejavu
+xed
 xfce4-terminal
