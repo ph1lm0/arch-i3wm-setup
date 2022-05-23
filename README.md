@@ -15,3 +15,7 @@ Web browser = [firefox](https://wiki.archlinux.org/title/Firefox)
 `cp -R .config/* ~/.config/`
 
 `sudo pacman -S --needed - < packages.txt`
+
+`cd ..`
+
+`rm -r arch-i3wm-setup`
